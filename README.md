@@ -1,5 +1,9 @@
 # Ex.No.-1.1-Design and Draft the given 2D Sketches in modelling software.
 
+NAME : YASHWANTH K 
+
+REG NO : 212224040369
+
 ## AIM
 
 To sketch the given drawing with dimensions using fusion 360 tool.
@@ -43,6 +47,7 @@ To sketch the given drawing with dimensions using fusion 360 tool.
 
 ## OUTPUT
 
+![EDM EXP 1](https://github.com/user-attachments/assets/73fb7246-12c4-4a99-bd03-9ab61bc88549)
 
 ## RESULT
 Thus the given sketch is drawn and drafted using fusion 360 tool.
